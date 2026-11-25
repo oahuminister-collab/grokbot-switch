@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Original GrokBot switch face. Not derived from any third-party artwork. -->
+  <ellipse cx="256" cy="258" rx="196" ry="220" fill="#ffffff" stroke="#1A1A1A" stroke-width="16"/>
+  <ellipse cx="186" cy="224" rx="32" ry="50" fill="#1A1A1A"/>
+  <ellipse cx="326" cy="224" rx="32" ry="50" fill="#1A1A1A"/>
+  <rect x="228" y="334" width="56" height="12" rx="2" fill="#1A1A1A"/>
+</svg>
