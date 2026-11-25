@@ -6,6 +6,16 @@ A tiny always-on-top desktop switch.
 Green means **Available**. Red means **Do Not Disturb**.
 Bots check the switch before they use this PC, so they do not interrupt you.
 
+## Screenshots
+
+| Available | Do Not Disturb | Minimized |
+|---|---|---|
+| ![Available](screens/pill-available.png) | ![Do Not Disturb](screens/pill-dnd.png) | ![Minimized](screens/minimized-available.png) |
+
+| Settings | Bot permission popup |
+|---|---|
+| ![Settings](screens/settings.png) | ![Permission popup](screens/permission-popup.png) |
+
 ## What it does
 
 - An always-on-top pill shows the current state. Click the pill to flip it by hand. Click **–** to shrink it to a 28px status dot; click the dot to bring the pill back. The dot stays green or red as availability changes, and permission popups still appear while it is minimized.
